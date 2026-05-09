@@ -4,7 +4,7 @@ English | [中文文档](./README.zh-CN.md)
 
 A free prompt library and generator hub for Google Veo users. Discover curated Veo 4 prompt examples, ready-to-use templates, and practical guidance that helps creators write better prompts faster.
 
-🔗 **Try it now**: https://veo4prompt.com/
+🔗 **Try it now**: [veo4prompt.com](https://veo4prompt.com/)
 
 ---
 
@@ -53,8 +53,8 @@ Instead of staring at a blank prompt box, start from examples and iterate:
 
 ## 🚀 Quick Start
 
-1. **Visit the site**: https://veo4prompt.com/
-2. **Browse the prompt library** for examples and ideas
+1. **Visit the site**: [veo4prompt.com](https://veo4prompt.com/)
+2. **Browse the [prompt library](https://veo4prompt.com/video-prompts)** for examples and ideas
 3. **Pick a template or example** close to your use case
 4. **Adapt it** with your subject, style, mood, and scene details
 5. **Use the prompt** in your Veo workflow and refine from results
@@ -126,7 +126,8 @@ A: The prompts are reference material. Please review the terms of the tools and 
 ## 🔗 Links
 
 - **Website**: https://veo4prompt.com/
-- **Explore prompts**: https://veo4prompt.com/
+- **Prompt guide**: [Learn how to write better Veo prompts](https://veo4prompt.com/prompt-guide)
+- **Explore prompts**: [Browse Veo 4 video prompts](https://veo4prompt.com/video-prompts)
 - **Issues**: Open an issue in this repository
 
 ---
