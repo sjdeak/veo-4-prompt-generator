@@ -128,6 +128,9 @@ A: The prompts are reference material. Please review the terms of the tools and 
 - **Website**: https://veo4prompt.com/
 - **Prompt guide**: [Learn how to write better Veo prompts](https://veo4prompt.com/prompt-guide)
 - **Explore prompts**: [Browse Veo 4 video prompts](https://veo4prompt.com/video-prompts)
+- **Related AI video prompt resources**:
+  - [Gemini Omni](https://gemini-omni-ai.org/) for Gemini Omni prompt templates and examples
+  - [Wan 3.0 Prompts](https://wan3prompt.com/) for tested Wan 3.0 video prompt ideas
 - **Issues**: Open an issue in this repository
 
 ---
